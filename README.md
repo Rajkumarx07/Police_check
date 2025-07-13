@@ -87,29 +87,11 @@ SecureCheck/
 
 ---
 
-## 🖼️ Screenshots (Add Manually)
-
-* Dashboard Overview
-* Query Dropdown & Results
-* Prediction Summary Output
-
----
-
-## 📈 Future Improvements
-
-* ML-based advanced prediction
-* Cloud MySQL integration (AWS RDS)
-* Role-based access control (officer login)
-* Upload new logs directly via UI
-* Error handling and validation improvements
-
----
 
 ## 👨‍💻 Developed By
 
 **Rajkumar**
-Final Project for Live Evaluation (GUVI / Internship / Academic)
+Capstone Project for (GUVI Academic)
 
 ---
 
-> "Stay secure. Stay accountable."
