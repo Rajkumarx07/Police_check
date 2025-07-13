@@ -19,7 +19,7 @@ SecureCheck is a real-time digital dashboard for police traffic stop monitoring 
 
 ## 🧰 Technologies Used
 
-* Python 3.x
+* Python
 * Streamlit
 * MySQL
 * pandas
@@ -28,17 +28,6 @@ SecureCheck is a real-time digital dashboard for police traffic stop monitoring 
 
 ---
 
-## 🗃️ Project Structure
-
-```
-SecureCheck/
-├── Police_check.py          # Main Streamlit App
-├── Police_check.ipynb       # Data cleaning & transformation
-├── requirements.txt         # Python dependencies (optional)
-├── README.md                # Project Documentation
-```
-
----
 
 ## ⚙️ How to Run
 
